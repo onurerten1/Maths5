@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Maths5</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="welcome_to_maths_symbols">Welcome to Maths Symbols</string>
+    <string name="start">START</string>
+    <string name="turned_a">∀</string>
+    <string name="name_universal_quantification">Name: Universal Quantification</string>
+    <string name="meaning_for_all">Meaning: For all</string>
+    <string name="field_in_mathematics_predicate_logic">Field in mathematics: Predicate logic</string>
+    <string name="example_n_2n_n">Example:∀ n ∈ ℕ: 2n ≥ n</string>
+    <string name="next">NEXT</string>
+    <string name="normal_subgroup">◅</string>
+    <string name="name_normal_subgroup">Name: Normal Subgroup</string>
+    <string name="meaning_is_a_normal_subgroup">Meaning: is a normal subgroup</string>
+    <string name="field_in_mathematics_group_theory">Field in mathematics: Group theory</string>
+    <string name="example_z_g_g">Example:Z(G) ◅ G</string>
+    <string name="therefore_sign">∴</string>
+    <string name="name_therefore_sign">Name: Therefore sign</string>
+    <string name="meaning_therefore">Meaning: Therefore</string>
+    <string name="field_in_mathematics_everywhere">Field in mathematics: Everywhere</string>
+    <string name="example_x_1_6_x_6_1_x_5">Example: x + 1 = 6 , x = 6 - 1 , ∴ x = 5</string>
+    <string name="partial_derivative_sign">∂</string>
+    <string name="name_partial_derivative_sign">Name: Partial derivative sign</string>
+    <string name="meaning_partial_derivative_with_respect_to">Meaning: Partial derivative with respect to</string>
+    <string name="field_in_mathematics_calculus">Field in mathematics: Calculus</string>
+    <string name="example_f_x_y_x2y_f_x_2xy">Example: f(x,y):=x²y, ∂f/∂x=2xy</string>
+    <string name="gradient_symbol">∇</string>
+    <string name="name_gradient">Name: Gradient</string>
+    <string name="meaning_vector_of_partial_derivatives">Meaning: Vector of partial derivatives</string>
+    <string name="field_in_mathematics_vector_calculus">Field in mathematics: Vector calculus</string>
+    <string name="example_f_x_y_z_3xy_z_f_3y_3x_2z">Example:f(x,y,z):=3xy+z², ∇f=(3y,3x,2z)</string>
+</resources>
